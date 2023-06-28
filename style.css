@@ -12,4 +12,6 @@
 .logo-image {
   display: block;
   margin: 20px auto; /* Ajuste conforme necessário */
+  max-width: 100%; /* Define a largura máxima da imagem como 100% do contêiner */
+  height: auto; /* Mantém a proporção da imagem */
 }
