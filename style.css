@@ -1,11 +1,10 @@
-.logo {
-    background-color: #f00; /* Cor em destaque (neste exemplo, vermelho) */
-    color: #fff; /* Cor do texto (neste exemplo, branco) */
-    text-align: center;
+..header {
+    background-color: #00f; /* Fundo azul */
     padding: 20px;
   }
   
-  .logo h1 {
+  .logo {
+    color: #0f0; /* Texto em destaque verde */
+    text-align: center;
     margin: 0;
-  }
-  
+  }  
