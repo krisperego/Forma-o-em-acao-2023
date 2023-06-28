@@ -1,11 +1,15 @@
-  header {
-    color: #0f0;
-    background-color: #00f; /* Fundo azul */
-    padding: 20px;
-  }
-  
-  .logo {
-    color: #0f0; /* Texto em destaque verde */
-    text-align: center;
-    margin: 0;
-  }  
+.header {
+  background-color: #00f; /* Fundo azul */
+  padding: 20px;
+}
+
+.logo {
+  color: #0f0; /* Texto em destaque verde */
+  text-align: center;
+  margin: 0;
+}
+
+.logo-image {
+  display: block;
+  margin: 20px auto; /* Ajuste conforme necessário */
+}
