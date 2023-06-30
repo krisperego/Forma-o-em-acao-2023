@@ -2,6 +2,7 @@
     background-color: rgb(173, 173, 209);
     color: brown;
     display: flex;
+    justify-content: space-around;
   }
 
   .cabeçalho-imagem {
