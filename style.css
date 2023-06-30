@@ -1,7 +1,7 @@
 .cabeçalho{
   background-color: rgb(219, 219, 236);
 color: brown;
-display: flex;
+  display: flex;
   }
   .cabeçalho-imagem {
     width: 20%
