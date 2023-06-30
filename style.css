@@ -1,4 +1,9 @@
-  .cabeçalho {
+  * {
+    margin: 0%;
+    padding: 0%;
+  }
+ 
+ .cabeçalho {
     background-color: rgb(173, 173, 209);
     color: brown;
     display: flex;
