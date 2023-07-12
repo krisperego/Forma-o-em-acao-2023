@@ -29,6 +29,7 @@
     background-image: linear-gradient(rgb(173, 173, 209),#a1e0f7);
     color: rgb(156, 35, 35);
     display: flex;
+    justify-content: center;
     .edutech-div-conteudo{
       width: 35%;
     }
