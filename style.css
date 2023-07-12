@@ -30,7 +30,8 @@
     color: rgb(156, 35, 35);
     display: flex;
     justify-content: center;
-    .edutech-div-conteudo{
+    align-items: center; 
+     }
+     .edutech-div-conteudo{
       width: 35%;
     }
-  }
