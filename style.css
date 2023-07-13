@@ -62,3 +62,9 @@
       display: grid;
       grid-template-columns: 20% 20% 20% 20% 20%;
     }
+    .rodape{
+      background-color: black;
+    }
+    .rodape-imagem{
+      height: 60px;
+    }
