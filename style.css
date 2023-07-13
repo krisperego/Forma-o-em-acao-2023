@@ -51,4 +51,6 @@
     .Painel-icone{
       width: 24px;
     }
-    .Painel
+    .Painel-div{
+      text-align: center;
+    }
